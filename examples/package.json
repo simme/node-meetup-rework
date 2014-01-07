@@ -1,0 +1,13 @@
+{
+  "name": "rework-example",
+  "version": "0.0.0",
+  "dependencies": {
+    "rework": "*",
+    "rework-importer": "*",
+    "rework-variant": "*",
+    "rework-mixins": "*",
+    "autoprefixer": "*",
+    "css-whitespace": "*",
+    "rework-visit": "~1.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+@import url('variables.css');
+
+body {
+  background-color: $colors.background;
+  color: $colors.text;
+}
+
+h1 {
+  font-family: $fonts.sans-serif;
+}
+
